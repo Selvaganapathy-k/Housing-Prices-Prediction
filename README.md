@@ -1,4 +1,3 @@
-Subject: README.md – Housing Prices Prediction
 
 # 🏠 Housing Prices Prediction
 
